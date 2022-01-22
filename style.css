@@ -233,6 +233,19 @@ img {
     padding: 8px;
 }
 
+.contact {
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.contact_item {
+    align-self: center;
+    margin: 8px;
+    
+}
+
 
 
 
